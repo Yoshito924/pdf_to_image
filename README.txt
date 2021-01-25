@@ -1,5 +1,5 @@
+Pythonライブラリの「pdf2image」を使って
+pdfを画像(PEGやPNG)ファイルに一括で変換するスクリプトです。
 
-pdfを画像(PEGやPNG)ファイルに一括で変換するPythonスクリプトです。
-
-詳しい説明はこちら↓。
+詳しい説明はこちら。↓
 https://khufrudamonotes.com/pdf-to-image-python
