@@ -1,7 +1,6 @@
 Python script to convert pdf to png or jpeg.  
   
-Pythonライブラリの「**pdf2image**」を使って  
-**pdf_file**内にあるpdfを画像(PEGやPNG)ファイルに一括で変換するスクリプトです。  
+Pythonライブラリの「**pdf2image**」を使って、**pdf_file**内にあるpdfを画像(PEGやPNG)ファイルに一括で変換するスクリプトです。  
 （書き出し先は**image_file**）  
   
 詳しいスクリプトの書き方などの説明はこちら。↓  
@@ -12,7 +11,7 @@ https://khufrudamonotes.com/pdf-to-image-python
 「pdf2image」ライブラリが必要です。  
   
 ```python  
-S pip install pdf2image  
+$ pip install pdf2image  
 ```  
   
 ---
